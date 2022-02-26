@@ -1,0 +1,5 @@
+[server]
+address = "SERVER ADDRESS"
+port    = 6972
+script  = "PATH TO UPDATE SCRIPT"
+token   = "SECRET TOKEN"

@@ -1,0 +1,7 @@
+[discord]
+token = "DISCORD TOKEN"
+
+[[server]]
+address = "SERVER ADDRESS"
+port    = 6972
+token   = "SECRET TOKEN"

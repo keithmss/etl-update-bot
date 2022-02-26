@@ -1,0 +1,13 @@
+syntax = "proto3";
+package update;
+
+service Updater {
+	// Send a request to update a server.
+	rpc Update (UpdateRequest) returns (UpdateResponse);
+} 
+
+// Update server request.
+message UpdateRequest {}
+
+// Update server reply.
+message UpdateResponse {}
